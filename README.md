@@ -49,8 +49,8 @@ DWG file: part15.SLDPRT
 DWG file: part13.SLDPRT
 
 
-# Muff
+# part10
 
-![Preview](Muff.png)
+![Preview](part10.png)
 
-DWG file: Muff.SLDPRT
+DWG file: part10.SLDPRT
