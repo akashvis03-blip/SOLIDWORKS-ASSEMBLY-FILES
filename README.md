@@ -30,11 +30,6 @@ DWG file: brasses.SLDPRT
 
 DWG file: bolt.SLDPRT
 
-# Muff
-
-![Preview](Muff.png)
-
-DWG file: Muff.SLDPRT
 
 # nut1
 
