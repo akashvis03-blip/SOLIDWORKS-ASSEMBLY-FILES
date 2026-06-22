@@ -1,43 +1,43 @@
 # SOLIDWORKS-ASSEMBLY-FILES
 
-# Gland
+# Flange-coupling-assembly
 
-![Preview](Gland.png)
+![Preview](Flange-coupling-assembly.png)
 
-DWG file: Gland.SLDPRT
+DWG file: Flange-coupling-assembly.SLDPRT
 
-# Gland
+# bolt
 
-![Preview](Gland.png)
+![Preview](bolt.png)
 
-DWG file: Gland.SLDPRT
+DWG file: bolt.SLDPRT
 
-# Gland
+# flange-no-1
 
-![Preview](Gland.png)
+![Preview](flange-no-1.png)
 
-DWG file: Gland.SLDPRT
+DWG file: flange-no-1.SLDPRT
 
-# Gland
+# flnage-no-2
 
-![Preview](Gland.png)
+![Preview](flnage-no-2.png)
 
-DWG file: Gland.SLDPRT
+DWG file: flnage-no-2.SLDPRT
 
-# Gland
+# nut-m16
 
-![Preview](Gland.png)
+![Preview](nut-m16.png)
 
-DWG file: Gland.SLDPRT
+DWG file: nut-m16.SLDPRT
 
-# Gland
+# Shaft
 
-![Preview](Gland.png)
+![Preview](Shaft.png)
 
-DWG file: Gland.SLDPRT
+DWG file: Shaft.SLDPRT
 
-# Gland
+# Taper-key
 
-![Preview](Gland.png)
+![Preview](Taper-key.png)
 
-DWG file: Gland.SLDPRT
+DWG file: Taper-key.SLDPRT
