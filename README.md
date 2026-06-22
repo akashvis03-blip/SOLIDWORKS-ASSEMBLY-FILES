@@ -1,3 +1,4 @@
+There are a total of 6 branches in this repository. Each branch has a solidworks assembly with all its parts
 # SOLIDWORKS-ASSEMBLY-FILES
 # HAFF-LAP-MUFF-COUPLING-ASSEMBLY
 
