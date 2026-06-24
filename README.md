@@ -1,31 +1,60 @@
-There are a total of 6 branches in this repository. Each branch has a solidworks assembly with all its parts
 # SOLIDWORKS-ASSEMBLY-FILES
-# HAFF-LAP-MUFF-COUPLING-ASSEMBLY
+# Machine-Vice-assembly
 
-![Preview](HAFF-LAP-MUFF-COUPLING-ASSEMBLY.png)
+![Preview](Machine-Vice-assembly.png)
 
-DWG file: HAFF-LAP-MUFF-COUPLING-ASSEMBLYy.SLDASM
+DWG file: Machine-Vice-assembly.SLDASM
 
-# Gland-stff-box-assembly
+# Base
 
-![Preview](Gland-stff-box-assemblyy.png)
+![Preview](Base.png)
 
-DWG file: Gland-stff-box-assembly.SLDASM
+DWG file: Base.SLDPRT
 
-# Flange-coupling-assembly
+# Block
 
-![Preview](Flange-coupling-assembly.png)
+![Preview](Block.png)
 
-DWG file: Flange-coupling-assembly.SLDASM
+DWG file: Block.SLDPRT
 
-# UNIVERSAL-COUPLING-ASSEMBLY
+# End-plate
 
-![Preview](UNIVERSAL-COUPLING-ASSEMBLY.png)
+![Preview](End-plate.png)
 
-DWG file: UNIVERSAL-COUPLING-ASSEMBLY.SLDASM
+DWG file: End-plate.SLDPRT
 
-# plummer-block-assembly
+# Fixed-jaw
 
-![Preview](plummer-block-assembly.png)
+![Preview](Fixed-jaw.png)
 
-DWG file: plummer-block-assembly.SLDASM
+DWG file: Fixed-jaw.SLDPRT
+
+# Screw-M6
+
+![Preview](Screw-M6.png)
+
+DWG file: Screw-M6.SLDASM
+
+# Screw-M8
+
+![Preview](Screw-M8.png)
+
+DWG file: Screw-M8.SLDPRT
+
+# Screw-Spindle
+
+![Preview](Screw-Spindle.png)
+
+DWG file: Screw-Spindle.SLDPRT
+
+# Set-Screw-M8
+
+![Preview](Set-Screw-M8.png)
+
+DWG file: Set-Screw-M8.SLDPRT
+
+# Sliding-jaw
+
+![Preview](Sliding-jaw.png)
+
+DWG file: Sliding-jaw.SLDPRT
