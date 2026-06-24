@@ -1,31 +1,54 @@
-There are a total of 6 branches in this repository. Each branch has a solidworks assembly with all its parts
-# SOLIDWORKS-ASSEMBLY-FILES
-# HAFF-LAP-MUFF-COUPLING-ASSEMBLY
 
-![Preview](HAFF-LAP-MUFF-COUPLING-ASSEMBLY.png)
+# MARINE TYP CON-ROD-END
 
-DWG file: HAFF-LAP-MUFF-COUPLING-ASSEMBLYy.SLDASM
+![Preview](MARINE TYP CON-ROD-END.png)
 
-# Gland-stff-box-assembly
+DWG file: MARINE TYP CON-ROD-END.SLDASM
 
-![Preview](Gland-stff-box-assemblyy.png)
+# brass
 
-DWG file: Gland-stff-box-assembly.SLDASM
+![Preview](brass.png)
 
-# Flange-coupling-assembly
+DWG file: brass.SLDASM
 
-![Preview](Flange-coupling-assembly.png)
+# Rod-end
 
-DWG file: Flange-coupling-assembly.SLDASM
+![Preview](Rod-end.png)
 
-# UNIVERSAL-COUPLING-ASSEMBLY
+DWG file: Rod-end.SLDASM
 
-![Preview](UNIVERSAL-COUPLING-ASSEMBLY.png)
+# Locking-plate
 
-DWG file: UNIVERSAL-COUPLING-ASSEMBLY.SLDASM
+![Preview](Locking-plate.png)
 
-# plummer-block-assembly
+DWG file: Locking-plate.SLDASM
 
-![Preview](plummer-block-assembly.png)
+# BOLT
 
-DWG file: plummer-block-assembly.SLDASM
+![Preview](BOLT.png)
+
+DWG file: BOLT.SLDASM
+
+# cover-plate
+
+![Preview](cover-plate.png)
+
+DWG file: cover-plate.SLDASM
+
+# LOCKNUT
+
+![Preview](LOCKNUT.png)
+
+DWG file: LOCKNUT.SLDASM
+
+# M20-NUT
+
+![Preview](M20-NUT.png)
+
+DWG file: M20-NUT.SLDASM
+
+# SET-SCREW
+
+![Preview](SET-SCREW.png)
+
+DWG file: SET-SCREW.SLDASM
