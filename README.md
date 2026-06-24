@@ -1,31 +1,49 @@
-There are a total of 6 branches in this repository. Each branch has a solidworks assembly with all its parts
 # SOLIDWORKS-ASSEMBLY-FILES
-# HAFF-LAP-MUFF-COUPLING-ASSEMBLY
+# Simple-Eccentric
 
-![Preview](HAFF-LAP-MUFF-COUPLING-ASSEMBLY.png)
+![Preview](Simple-Eccentric.png)
 
-DWG file: HAFF-LAP-MUFF-COUPLING-ASSEMBLYy.SLDASM
+DWG file: Simple-Eccentric.SLDASM
 
-# Gland-stff-box-assembly
+# Strap-no-1
 
-![Preview](Gland-stff-box-assemblyy.png)
+![Preview](Strap-no-1.png)
 
-DWG file: Gland-stff-box-assembly.SLDASM
+DWG file: Strap-no-1.SLDPRT
 
-# Flange-coupling-assembly
+# Strap-no-2
 
-![Preview](Flange-coupling-assembly.png)
+![Preview](Strap-no-2.png)
 
-DWG file: Flange-coupling-assembly.SLDASM
+DWG file: Strap-no-2.SLDPRT
 
-# UNIVERSAL-COUPLING-ASSEMBLY
+# Shim
 
-![Preview](UNIVERSAL-COUPLING-ASSEMBLY.png)
+![Preview](Shim.png)
 
-DWG file: UNIVERSAL-COUPLING-ASSEMBLY.SLDASM
+DWG file: Shim.SLDPRT
 
-# plummer-block-assembly
+# Sheave
 
-![Preview](plummer-block-assembly.png)
+![Preview](Sheave.png)
 
-DWG file: plummer-block-assembly.SLDASM
+DWG file: Sheave.SLDPRT
+
+# Nut-m12
+
+![Preview](Nut-m12.png)
+
+DWG file: Nut-m12.SLDPRT
+
+# Locknut-M12
+
+![Preview](Locknut-M12.png)
+
+DWG file: Locknut-M12.SLDPRT
+
+# Cheese-head-bolt
+
+![Preview](Cheese-head-bolt.png)
+
+DWG file: Cheese-head-bolt.SLDAPRT
+
