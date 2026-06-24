@@ -2,7 +2,7 @@
 
 ![Preview](Fab-disc-flexi-coupling.png)
 
-DWG file: Fab-disc-flexi-coupling.SLDPRT
+DWG file: Fab-disc-flexi-coupling.SLDASM
 
 # Fabri-disc
 
