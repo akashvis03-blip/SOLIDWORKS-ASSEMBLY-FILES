@@ -1,54 +1,54 @@
+Marine typ con rod end Assembly
+# Marine-typ-con-rod-end
 
-# MARINE TYP CON-ROD-END
+![Preview](Marine-typ-con-rod-end.png)
 
-![Preview](MARINE TYP CON-ROD-END.png)
+DWG file: Marine-typ-con-rod-end.SLDASM
 
-DWG file: MARINE TYP CON-ROD-END.SLDASM
+# Brass
 
-# brass
+![Preview](Brass.png)
 
-![Preview](brass.png)
-
-DWG file: brass.SLDASM
+DWG file: Brass.SLDPRT
 
 # Rod-end
 
 ![Preview](Rod-end.png)
 
-DWG file: Rod-end.SLDASM
+DWG file: Rod-end.SLDPRT
 
 # Locking-plate
 
 ![Preview](Locking-plate.png)
 
-DWG file: Locking-plate.SLDASM
+DWG file: Locking-plate.SLDPRT
 
-# BOLT
+# Bolt
 
-![Preview](BOLT.png)
+![Preview](Bolt.png)
 
-DWG file: BOLT.SLDASM
+DWG file: Bolt.SLDPRT
 
-# cover-plate
+# Cover-plate
 
-![Preview](cover-plate.png)
+![Preview](Cover-plate.png)
 
-DWG file: cover-plate.SLDASM
+DWG file: Cover-plate.SLDPRT
 
-# LOCKNUT
+# Locknut
 
-![Preview](LOCKNUT.png)
+![Preview](Locknut.png)
 
-DWG file: LOCKNUT.SLDASM
+DWG file: Locknut.SLDPRT
 
-# M20-NUT
+# M20-Nut
 
-![Preview](M20-NUT.png)
+![Preview](M20-Nut.png)
 
-DWG file: M20-NUT.SLDASM
+DWG file: M20-Nut.SLDPRT
 
-# SET-SCREW
+# Set-screw
 
-![Preview](SET-SCREW.png)
+![Preview](Set-screw.png)
 
-DWG file: SET-SCREW.SLDASM
+DWG file: Set-screw.SLDPRT
