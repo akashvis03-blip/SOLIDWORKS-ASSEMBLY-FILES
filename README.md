@@ -10,6 +10,12 @@ DWG file: Fab-disc-flexi-coupling.SLDPRT
 
 DWG file: Fabri-disc.SLDPRT
 
+# Flange
+
+![Preview](Flange.png)
+
+DWG file: Flange.SLDPRT
+
 # Nut-M12
 
 ![Preview](Nut-M12.png)
@@ -34,11 +40,6 @@ DWG file: Pin.SLDPRT
 
 DWG file: Shaft.SLDPRT
 
-# bolt
-
-![Preview](bolt.png)
-
-DWG file: bolt.SLDPRT
 
 # Washer
 
