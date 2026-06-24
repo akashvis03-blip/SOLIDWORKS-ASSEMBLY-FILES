@@ -1,31 +1,42 @@
-There are a total of 6 branches in this repository. Each branch has a solidworks assembly with all its parts
 # SOLIDWORKS-ASSEMBLY-FILES
-# HAFF-LAP-MUFF-COUPLING-ASSEMBLY
+# Pipe-vice-assembly
 
-![Preview](HAFF-LAP-MUFF-COUPLING-ASSEMBLY.png)
+![Preview](Pipe-vice-assembly.png)
 
-DWG file: HAFF-LAP-MUFF-COUPLING-ASSEMBLYy.SLDASM
+DWG file: Pipe-vice-assembly.SLDASM
 
-# Gland-stff-box-assembly
+# Vice-Base
 
-![Preview](Gland-stff-box-assemblyy.png)
+![Preview](Vice-Base.png)
 
-DWG file: Gland-stff-box-assembly.SLDASM
+DWG file: Vice-Base.SLDASM
 
-# Flange-coupling-assembly
+# Movable-jaw
 
-![Preview](Flange-coupling-assembly.png)
+![Preview](Movable-jaw.png)
 
-DWG file: Flange-coupling-assembly.SLDASM
+DWG file: Movable-jaw.SLDASM
 
-# UNIVERSAL-COUPLING-ASSEMBLY
+# Hand-rod
 
-![Preview](UNIVERSAL-COUPLING-ASSEMBLY.png)
+![Preview](Hand-rod.png)
 
-DWG file: UNIVERSAL-COUPLING-ASSEMBLY.SLDASM
+DWG file: Hand-rod.SLDASM
 
-# plummer-block-assembly
+# Hand-bar-cap
 
-![Preview](plummer-block-assembly.png)
+![Preview](Hand-bar-cap.png)
 
-DWG file: plummer-block-assembly.SLDASM
+DWG file: Hand-bar-cap.SLDASM
+
+# Screw-rod
+
+![Preview](Screw-rod.png)
+
+DWG file: Screw-rod.SLDASM
+
+# Set-Screw
+
+![Preview](Set-Screw.png)
+
+DWG file: Set-Screw.SLDASM
